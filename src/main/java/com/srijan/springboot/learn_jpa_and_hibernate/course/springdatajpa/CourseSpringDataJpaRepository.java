@@ -9,5 +9,7 @@ import com.srijan.springboot.learn_jpa_and_hibernate.course.Course;
 public interface CourseSpringDataJpaRepository extends JpaRepository<Course, Long> {
 	
 	List<Course> findByAuthor(String author);
+	
+	List<Course> findByName(String name);
 
 }

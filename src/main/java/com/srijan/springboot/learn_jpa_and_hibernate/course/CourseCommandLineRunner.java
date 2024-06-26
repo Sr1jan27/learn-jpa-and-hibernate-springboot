@@ -35,6 +35,8 @@ public class CourseCommandLineRunner implements CommandLineRunner{
 		
 		System.out.println(repository.findByAuthor("Srijan"));
 		
+		System.out.println(repository.findByName("Learn C++ Now!"));
+		
 	}
 
 }
