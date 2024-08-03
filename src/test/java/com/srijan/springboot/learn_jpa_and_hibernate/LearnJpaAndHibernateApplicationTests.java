@@ -9,6 +9,8 @@ class LearnJpaAndHibernateApplicationTests {
 	@Test
 	void contextLoads() {
 		//learn 
+
+//here and now 
 	}
 
 }
