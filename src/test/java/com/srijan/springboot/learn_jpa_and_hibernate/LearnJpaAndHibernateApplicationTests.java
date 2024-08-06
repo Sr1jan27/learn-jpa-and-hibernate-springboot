@@ -7,8 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class LearnJpaAndHibernateApplicationTests {
 
 	@Test
-	void contextLoads() {
-		//learn 
+	void contextLoads() { 
 	}
 
 }
