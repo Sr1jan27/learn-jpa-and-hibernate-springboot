@@ -10,7 +10,7 @@ class LearnJpaAndHibernateApplicationTests {
 	void contextLoads() {
 		//learn 
 
-//here and now 
+
 	}
 
 }
