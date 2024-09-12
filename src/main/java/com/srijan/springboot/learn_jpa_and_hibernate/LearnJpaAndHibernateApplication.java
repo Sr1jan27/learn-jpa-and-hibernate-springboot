@@ -10,6 +10,7 @@ public class LearnJpaAndHibernateApplication {
 		SpringApplication.run(LearnJpaAndHibernateApplication.class, args);
 		System.out.println();//
 		//
+		// Chris Hemsworth
 	}
 
 }
